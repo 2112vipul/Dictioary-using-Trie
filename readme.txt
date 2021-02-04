@@ -13,7 +13,6 @@ Features of the Project :
 
 Running the Program:
 
-We implemented our Project on Codeblocks C++ 14.
 The Words in the Dictionary is stored in a word file named "wordlist.txt" along with the meaning which we have also attached along with the code.
 We have entered some word  in the text file for working of the project and your reference.
 While entering meaning of the word when you are inserting a word in dictionary please don't use spaces.
